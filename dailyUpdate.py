@@ -22,9 +22,6 @@ def add_leetcode_entry(problem_name, status):
 
     print(f"Added new entry for problem '{problem_name}' with status '{status}'")
 
-# Example usage
-add_leetcode_entry("Problem XYZ", "Completed")
-
 if __name__ == "__main__":
     problem_name = input("Enter the problem name: ")
     status = input("Enter the status (Completed/In Progress): ")
