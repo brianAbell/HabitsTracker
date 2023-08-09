@@ -1,0 +1,19 @@
+===== LeetCode =====
+Date: YYYY-MM-DD, Problem: Problem Name, Status: Completed/In Progress
+Date: YYYY-MM-DD, Problem: Problem Name, Status: Completed/In Progress
+...
+
+===== Job Applications =====
+Date: YYYY-MM-DD, Company: Company Name, Position: Position Name, Status: Applied/Interviewing/Offer
+Date: YYYY-MM-DD, Company: Company Name, Position: Position Name, Status: Applied/Interviewing/Offer
+...
+
+===== New Skills =====
+Date: YYYY-MM-DD, Skill: Skill Name, Source: Source Name, Status: Learning/Completed
+Date: YYYY-MM-DD, Skill: Skill Name, Source: Source Name, Status: Learning/Completed
+...
+
+===== Interview Questions/Resume =====
+Date: YYYY-MM-DD, Topic: Topic Name, Time Spent: XX hours, Status: Reviewed/In Progress
+Date: YYYY-MM-DD, Topic: Topic Name, Time Spent: XX hours, Status: Reviewed/In Progress
+...
