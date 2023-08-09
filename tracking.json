@@ -2,15 +2,6 @@
     "LeetCode": [
       {"date": "YYYY-MM-DD", "problem": "Problem Name", "status": "Completed"},
       {"date": "YYYY-MM-DD", "problem": "Problem Name", "status": "In Progress"}
-    ],
-    "JobApplications": [
-      {"date": "YYYY-MM-DD", "company": "Company Name", "position": "Position Name", "status": "Applied"}
-    ],
-    "NewSkills": [
-      {"date": "YYYY-MM-DD", "skill": "Skill Name", "source": "Source Name", "status": "Learning"}
-    ],
-    "InterviewQuestions": [
-      {"date": "YYYY-MM-DD", "topic": "Topic Name", "time_spent": "XX hours", "status": "Reviewed"}
     ]
   }
   
