@@ -29,6 +29,11 @@
             "date": "2023-08-10",
             "problem": "347. Top K Frequent Elements",
             "status": "Completed"
+        },
+        {
+            "date": "2023-08-12",
+            "problem": "238. Product of Array Except Self",
+            "status": "Completed"
         }
     ]
 }
