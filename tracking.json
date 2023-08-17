@@ -44,6 +44,11 @@
             "date": "2023-08-15",
             "problem": "238. Product of Array Except Self",
             "status": "Completed"
+        },
+        {
+            "date": "2023-08-16",
+            "problem": "36. Valid Sudoku",
+            "status": "Completed"
         }
     ]
 }
